@@ -4,12 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index2.js"
   },
   "author": "Petr",
   "license": "ISC",
   "dependencies": {
     "config": "^3.3.12",
-    "express": "^4.19.2"
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "node-fetch": "^2.7.0",
+    "save-dev": "^0.0.1-security"
   }
 }

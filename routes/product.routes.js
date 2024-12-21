@@ -4,7 +4,7 @@ const Router = require("express")
 const productRouter = new Router();
 
 
-// console.log("p=",productRouter)
+console.log("p=",typeof(productRouter))
 
 // const productRouter = express.Router();
 

@@ -1,7 +1,9 @@
 {
     "serverPort":5000,
     "dbUrl":"mongodb+srv://Petr:33399927@cloud.ywlk0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "secretKey":"mern-secket-key",
+    "secretKey":"tron-revolution",
     "filePath": "d:\\C++\\mern-cloud-disk\\server\\files",  
-    "staticPath": "d:\\C++\\mern-cloud-disk\\server\\static"
+    "staticPath": "d:\\C++\\mern-cloud-disk\\server\\static",
+
+    "password": "3927"
 }
