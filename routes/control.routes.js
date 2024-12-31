@@ -20,7 +20,8 @@ controlRouter.use('/control', jsonParser, (req, res) => {
     }
 
     // }
-    res.json(status)
+    // res.json(status)
+    res.json({[req.body.key]:status[req.body.key]})
     // res.json((JSON.stringify(res.body)))
 })
 
